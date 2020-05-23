@@ -1,3 +1,3 @@
 Este es un README de prueba.
 
-paso 1
+paso 2
